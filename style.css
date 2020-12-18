@@ -11,6 +11,7 @@ section {
   border: 1px solid black;
   margin: 2px;
   padding: 2px;
+  overflow: auto;
 }
 
 pre {
@@ -18,7 +19,7 @@ pre {
 }
 
 hr {
-  width: 10%;
+  width: 80%;
 }
 
 blockquote {
@@ -37,4 +38,6 @@ blockquote p::before {
 
 img, video {
   max-width: 24%;
+  margin: 5px;
+  border: 1px dashed black;
 }
