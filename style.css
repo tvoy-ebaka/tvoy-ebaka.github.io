@@ -34,3 +34,7 @@ blockquote p {
 blockquote p::before {
   content: "> "
 }
+
+img, video {
+  max-width: 24%;
+}
