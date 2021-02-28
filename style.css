@@ -14,6 +14,10 @@ section {
   overflow: auto;
 }
 
+body {
+  font-family: Verdana, Tahoma, Helvetica, sans-serif;
+}
+
 pre {
   white-space: pre-line;
 }
